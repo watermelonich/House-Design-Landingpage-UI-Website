@@ -1,6 +1,6 @@
 # House Design Landingpage UI Website
 
-A simple House Design Landingpage UI Website made with reactJS
+A simple House Design Landingpage UI Website made with ReactJS
 
 ### React + Vite
 
